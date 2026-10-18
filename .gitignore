@@ -1,0 +1,10 @@
+# credentials must never be committed
+.env
+*.env
+
+# local noise
+.ipynb_checkpoints/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
